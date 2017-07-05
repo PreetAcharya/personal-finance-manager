@@ -22,16 +22,7 @@ class CreateUsersTable extends Migration
             $table->rememberToken();
             $table->timestamps();
         });
-        // Insert some stuff
-        DB::table('users')->insert(
-            array(
-                'firstName' => 'Victor',
-                'lastName' => 'Alves',
-                'email' => 'victor.alves@designshopp.com',
-                'password' => bcrypt('superuser123')
-            )
-        );
-
+        
         Schema::create('categories', function (Blueprint $table) {
             $table->increments('categoryId');
             $table->string('categoryType');
