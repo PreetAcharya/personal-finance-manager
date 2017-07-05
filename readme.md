@@ -4,8 +4,8 @@ Personal Finance Manager is a responsive web application for keeping track of us
 
 ## Skills And Tools
 
-•	Skills Used	:  Laravel Framework, MVC, PHP, Blade, HTML, CSS, Bootstrap, JavaScript, AJAX, JQuery 
-•	Tools Used	:  WAMP Server, MySQL Workbench, phpMyAdmin, PHPStorm, Composer, GIT
+Skills : Laravel Framework, MVC, PHP, Blade, HTML, CSS, Bootstrap, JavaScript, AJAX, JQuery
+Tools  : WAMP Server, MySQL Workbench, phpMyAdmin, PHPStorm, Composer, GIT
 
 ## Installation
 
