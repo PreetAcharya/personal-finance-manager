@@ -1,0 +1,60 @@
+/* CSS Document */
+body{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-size:24px;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #4EB9FC;
+  background-color: transparent;
+  font-size:24px;
+}
+.navbar-inverse .navbar-nav li a
+{
+  color: white;
+  font-size:18px;
+}
+.navbar-inverse .navbar-nav li a:hover
+{
+  color: #4EB9FC;
+  background-color: transparent;
+  font-size:18px;
+  /*font-family:Verdana, Geneva, sans-serif;*/
+}
+.panel-default .panel-heading{
+	background-color:#4EB9FC;
+}
+
+.top-nav li a
+{
+  font-size:20px;
+  font-family:Verdana, Geneva, sans-serif;
+}
+.top-nav li a:hover
+{
+  color: #4EB9FC;
+  font-size:20px;
+  font-family:Verdana, Geneva, sans-serif;
+}
+
+
+@media (max-width: 415px) {
+  .navbar-inverse .navbar-brand {
+  font-size:18px;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  font-size:18px;
+}
+.navbar-inverse .navbar-nav li a
+{
+  font-size:18px;
+}
+.navbar-inverse .navbar-nav li a:hover
+{
+  font-size:18px;
+}
+}
