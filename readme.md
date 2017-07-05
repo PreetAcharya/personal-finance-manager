@@ -1,27 +1,20 @@
-# Laravel PHP Framework
+# Personal Finance Manager 
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Personal Finance Manager is a responsive web application for keeping track of user’s personal expenses. In order to use this application user has to go through the registration process. After the registration user can add his credits and debits into this application and he can keep track of all his expenses and savings. In addition, the user can see the trends as a graphical representation. This application also has email verification feature for signup, forgot password and contact us.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Skills And Tools
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+•	Skills Used	:  Laravel Framework, MVC, PHP, Blade, HTML, CSS, Bootstrap, JavaScript, AJAX, JQuery 
+•	Tools Used	:  WAMP Server, MySQL Workbench, phpMyAdmin, PHPStorm, Composer, GIT
 
-## Official Documentation
+## Installation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+1. Unzip project to wamp/xamp, create database "personal_finance_manager" 
+2. Perform "php artisan migrate" function. All database and predetermined data will be made.
+3. Go to localhost/pfm_laravel/public to see the home page
+4. Register and Login in order to use this application.
 
-## Contributing
+## Contact
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+If any concerns or problems please feel free to contact: 
+Preet Acharya - ipreet91@gmail.com
